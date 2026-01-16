@@ -1,2 +1,3 @@
-title: Tochukwu Ezenwa
+#title: Tochukwu Ezenwa
+
 theme: jekyll-theme-minimal
